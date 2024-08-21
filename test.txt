@@ -2,5 +2,10 @@ swgfje
 addingjm jm k
 working on august month release
 tsting 
+dd HEAD
 changes in qa branch
 making changes in qa branch 
+dd
+modify the files
+working on commit
+>>>>>>> 1b104c8 (second commit)
