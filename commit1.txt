@@ -1,0 +1,3 @@
+creating file in working tree
+
+working on commit
