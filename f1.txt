@@ -14,3 +14,8 @@ Changes not staged for commit:
 	modified:   f1.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
