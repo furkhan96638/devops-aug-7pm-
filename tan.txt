@@ -6,6 +6,8 @@ hsksls
 jcdkdol
 
 fur "commit on file"salman made changes
+HEAD
 tjsksks
 hi fur
 hdeikedk
+e7206ff (change has been commited)
