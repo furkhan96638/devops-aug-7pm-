@@ -3,3 +3,8 @@ bddjdjsd
 salman is in office
 [pp e84fa42] hi all good
  1 file changed, 1 insertion(+)
+On branch master
+Your branch is ahead of 'origin/master' by 17 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
