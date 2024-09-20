@@ -1,1 +1,6 @@
+ HEAD
 ddjjdk
+hdjddj
+On branch fur
+nothing to commit, working tree clean
+fur
