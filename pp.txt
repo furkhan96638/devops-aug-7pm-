@@ -1,6 +1,7 @@
  HEAD
  HEAD
 djdkldl
+<<<<<<< HEAD
  HEAD
 hxjd
 qa
@@ -10,3 +11,6 @@ kk
 hi all 
 dfsejf
 d9c73c1 (here code is ruuning good)
+=======
+dfsejf
+>>>>>>> fur

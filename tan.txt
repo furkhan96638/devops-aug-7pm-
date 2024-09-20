@@ -9,7 +9,14 @@ fur "commit on file"salman made changes
 HEAD
 HEAD
 tjsksks
+<<<<<<< HEAD
 hi fur
 hdeikedk
 e7206ff (change has been commited)
 e7206ff (change has commited)
+=======
+hdjdk
+jdkdk
+[fur 64b87c1] bjxckdk
+ 1 file changed, 2 insertions(+)
+>>>>>>> fur
