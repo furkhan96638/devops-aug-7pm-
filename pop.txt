@@ -8,3 +8,5 @@ nothing to commit, working tree clean
  1 file changed, 5 insertions(+)
 new modification we are doing
 now im trying to change
+On branch feature
+nothing to commit, working tree clean
